@@ -1,0 +1,12 @@
+F:\C++++\MyFirstConsoleGame\MyFirstConsoleGame\bin\Debug\MyFirstConsoleGame.exe.config
+F:\C++++\MyFirstConsoleGame\MyFirstConsoleGame\bin\Debug\MyFirstConsoleGame.exe
+F:\C++++\MyFirstConsoleGame\MyFirstConsoleGame\bin\Debug\MyFirstConsoleGame.pdb
+F:\C++++\MyFirstConsoleGame\MyFirstConsoleGame\obj\Debug\MyFirstConsoleGame.csproj.AssemblyReference.cache
+F:\C++++\MyFirstConsoleGame\MyFirstConsoleGame\obj\Debug\MyFirstConsoleGame.csproj.SuggestedBindingRedirects.cache
+F:\C++++\MyFirstConsoleGame\MyFirstConsoleGame\obj\Debug\MyFirstConsoleGame.csproj.CoreCompileInputs.cache
+F:\C++++\MyFirstConsoleGame\MyFirstConsoleGame\obj\Debug\MyFirstConsoleGame.exe
+F:\C++++\MyFirstConsoleGame\MyFirstConsoleGame\obj\Debug\MyFirstConsoleGame.pdb
+F:\C++++\MyFirstConsoleGame\MyFirstConsoleGame\bin\Debug\MyFirstConsoleGame.exe.manifest
+F:\C++++\MyFirstConsoleGame\MyFirstConsoleGame\bin\Debug\MyFirstConsoleGame.application
+F:\C++++\MyFirstConsoleGame\MyFirstConsoleGame\obj\Debug\MyFirstConsoleGame.exe.manifest
+F:\C++++\MyFirstConsoleGame\MyFirstConsoleGame\obj\Debug\MyFirstConsoleGame.application
